@@ -1,0 +1,14 @@
+manufacturerId: "abcd"
+name: "Pharmaceutical 1"
+quantity: 1
+price: 10.00
+---
+manufacturerId: "abcd"
+name: "Pharmaceutical 2"
+quantity: 1
+price: 11.00
+---
+manufacturerId: "abcd"
+name: "Pharmaceutical 3"
+quantity: 111
+price: 12.00
